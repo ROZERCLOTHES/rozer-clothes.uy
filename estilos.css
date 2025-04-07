@@ -89,3 +89,24 @@ footer {
   background: #000;
   color: white;
 }
+producto {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    display: inline-block;
+    margin: 10px;
+}
+.producto img {
+    width: 100%;
+    height: auto;
+}
+.boton {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #25D366; /* Color de WhatsApp */
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
